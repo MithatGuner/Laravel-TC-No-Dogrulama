@@ -1,6 +1,6 @@
 <?php
 
-namespace MithatGuner\TcDogrula;
+namespace TcDogrula;
 
 
 class TcDogrula
