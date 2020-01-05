@@ -1,0 +1,24 @@
+{
+    "name": "mithatguner/tc-no-dogrulama",
+    "description": "TC Numara Dogrulama laravel 5.*.*",
+    "keywords": [
+      "laravel", "laravel tc", "tc no laravel", "tc","tc no dogrulama"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mithat Guner",
+            "email": "iletisim@mith.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MithatGuner\\TCNO\\": "src/"
+        }
+    }
+}
